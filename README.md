@@ -20,7 +20,7 @@ I learned to recreate the QR code component using basic HTML and CSS.
 
 ### Screenshot
 
-![Screenshot of QR code component](./qrcode screenshot.png)
+![Screenshot of QR code component](/qrcode screenshot.png)
 
 ### Links
 
