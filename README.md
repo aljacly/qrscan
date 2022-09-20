@@ -23,9 +23,7 @@ I learned to recreate the QR code component using basic HTML and CSS.
 ![Screenshot of QR code component](/screenshot.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://aljacly.github.io/qrscan/)
 
 ## My process
 
